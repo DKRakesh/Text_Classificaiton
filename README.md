@@ -1,3 +1,5 @@
+** execution.ipynb shows the execution of codes
+
 # Text_Classificaiton
 This repository contains the necessary code files for implementing a text classification task. The purpose of this project is to demonstrate the process of text classification, including preprocessing the data, training a neural network model, and using the trained model for classification. The following sections provide an overview of each code file:
 
@@ -13,5 +15,5 @@ preprocess.py: This module handles the preprocessing of text data before trainin
 
 training.py: This module provides the necessary functions to train the neural network model on the preprocessed data. It includes functions for splitting the data into training and validation sets, defining the loss function and optimizer, and executing the training loop. The trained model is saved for later use in classification.
 
-** execution.ipynb shows the execution of codes
+
 
